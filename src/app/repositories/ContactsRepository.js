@@ -1,4 +1,3 @@
-// eslint-disable-next-line import/no-extraneous-dependencies
 const { v4 } = require('uuid');
 
 let contacts = [
